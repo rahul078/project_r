@@ -1,0 +1,51 @@
+.navbar-brand{
+   font-size:3rem;
+}
+.nav li a{
+  font-size:1.5rem;
+}
+.table{
+  margin-left:10%;margin-right:10%;
+  width:80%;
+  border:1px solid black;
+  box-shadow: 6px 6px 12px 3px gray;
+}
+.table td,th{
+  border:0.5px solid lightgray;
+}
+
+	.TFtable tr:nth-child(odd){
+    background:white;
+	}
+	.TFtable tr:nth-child(even){
+		background:#F5F3F3;
+	}
+.button2{
+  background:darkgray;
+  padding:3% 10% 3% 10%;
+  text-transform:uppercase;
+   font-family:'Roboto',sans-serif;
+  color:black;
+  font-size:2rem;
+}
+.button2:hover{
+  background:gray;
+  text-decoration: none;
+  padding:3% 10% 3% 10%;
+  text-transform:uppercase;
+   font-family:'Roboto',sans-serif;
+  color:black;
+  font-size:2rem;
+}
+.form-control{width:30%;}
+#list_view{
+}
+#list_view ul li{
+  font-size: 1.6rem;
+  text-align: justify;
+}
+.designation{
+  color:#3523F9;
+  font-size: 1.4rem;
+
+}
