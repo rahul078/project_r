@@ -1,0 +1,11 @@
+The below pages are responsive i.e. it is both designed for all devices
+
+Step 1 : Install wamp server with mySql server
+
+Step 2 : copy the below files to wamp/www folder
+
+Step 3 : In mySql console, login using username = root and pwd = ""
+
+Step 4 : create database followed by table [SQL script provided in database.txt folder]
+
+Step 5 : Start wamp server and type the url in the url handler of your browser [url : localhost/homepage.php]

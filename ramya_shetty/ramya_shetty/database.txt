@@ -1,0 +1,4 @@
+create database employee;
+
+use employee;
+create table employee.employee(id int not null auto_increment unique key, name varchar(20) primary key, designation varchar(30) not null, mgr_name varchar(20) references employee(name));
